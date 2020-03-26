@@ -24,4 +24,7 @@
 - Buzzer
 - Touch Screen Display
 ### Flowchart 
+![alt text](https://github.com/Noppamas045/MDT112-Project-GAD/blob/master/Flowchart%20Project.svg)
+
+
 
